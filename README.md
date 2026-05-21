@@ -15,7 +15,7 @@ I use arch btw
 
 * 🌍  I'm based in Norway
 * ✉️  You can contact me at [ErisOrbit@proton.me](mailto:ErisOrbit@proton.me)
-* 🧠  I'm currently learning I am lering the better coding yk
+* 🧠  I'm currently learning I am learning the better coding yk
 * 👥  I'm looking to collaborate on Games, Websites and otherstuff
 * 💬  Ask me about haiii :3
 
