@@ -1,4 +1,4 @@
-Hi ![](https://www.pinterest.com/ideas/rwby-banner-gif/902879660911/) My name is Eris
+Hiii :3 My name is Eris
 =============================================================================================================================
 
 \- Tech enthusiast & tinkerer
