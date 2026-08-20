@@ -22,7 +22,7 @@
 
 Name:        Eris
 Location:    Norway
-Role:        Developer / Linux User / Tinkerer
+Role:        Developer / Null User / Tinkerer
 Focus:       Systems, automation, web projects, modding
 Status:      Constantly learning and building
 ```
