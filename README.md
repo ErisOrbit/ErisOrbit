@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=900&lines=Building+things+that+probably+shouldn't+exist;Linux+User+from+Norway;Backend+Learning+%2F+Automation+%2F+Modding;Turning+random+ideas+into+projects;I+use+arch+btw" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=900&lines=Building+things+that+probably+shouldn't+exist;Null+User+from+Norway;Backend+Learning+%2F+Automation+%2F+Modding;Turning+random+ideas+into+projects;I+use+arch+btw" />
 
 <br><br>
 
@@ -34,7 +34,7 @@ Status:      Constantly learning and building
 ```bash
 > cat about.txt
 
-I enjoy building random projects, experimenting with Linux,
+I enjoy building random projects, experimenting with stuffix,
 modding games, automating things, and learning how systems work.
 
 Most of my projects start as:
@@ -79,7 +79,7 @@ and somehow end up becoming real.
 > Currently learning
 
 - Better backend architecture
-- Linux system management
+- system management
 - Automation & tooling
 - APIs and databases
 - Hardware / ESP32 projects
@@ -118,10 +118,10 @@ and somehow end up becoming real.
 
 # Featured Projects
 
-## Linux / Automation Project
+## Meow / Automation Project
 
 ```bash
-A Linux or automation related project.
+A Meow or automation related project.
 
 Features:
 - CLI based
